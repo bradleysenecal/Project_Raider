@@ -896,3 +896,1137 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2026.01.06-16.00.57:966][841]LogSlate: Took 0.006167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
 [2026.01.06-16.01.10:417][588]LogSlate: Window 'Source Control Login' being destroyed
 [2026.01.06-16.01.22:347][300]LogSlate: Window 'Source Control Login' being destroyed
+[2026.01.06-16.15.29:038][263]LogSlate: Took 0.009586 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.01.06-16.15.29:060][264]LogTemp: Warning: Select a mesh. Switch tools to paint vertex colors, blend between textures, or paint directly onto a texture file.
+[2026.01.06-16.15.46:113][278]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.01.06-16.15.46:128][278]LogContentBrowser: Creating deferred item: NewFolder
+[2026.01.06-16.15.51:214][583]LogContentBrowser: Attempting asset rename: NewFolder -> Player
+[2026.01.06-16.15.51:215][583]LogContentBrowser: End creating deferred item NewFolder
+[2026.01.06-16.15.55:473][836]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.01.06-16.15.55:482][836]LogContentBrowser: Creating deferred item: NewFolder
+[2026.01.06-16.15.58:636][ 26]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2026.01.06-16.15.58:637][ 26]LogContentBrowser: End creating deferred item NewFolder
+[2026.01.06-16.16.15:975][338]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.01.06-16.16.16:002][338]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.01.06-16.16.17:486][338]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.01.06-16.16.17:503][338]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.01.06-16.16.17:508][338]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.01.06-16.16.26:345][869]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PlayerCharacter
+[2026.01.06-16.16.26:424][869]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.01.06-16.16.27:839][952]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2026.01.06-16.16.27:941][952]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0003 seconds. Added 126 classes and 0 folders.
+[2026.01.06-16.16.40:440][667]SourceControl: Source control is disabled
+[2026.01.06-16.16.40:440][667]LogSlate: Window 'Source Control Login' being destroyed
+[2026.01.06-16.16.46:266][ 13]LogRenderer: Reallocating scene render targets to support 1360x772 Format 10 NumSamples 1 (Frame:705).
+[2026.01.06-16.16.46:568][ 31]LogSlate: Window 'BP_PlayerCharacter' being destroyed
+[2026.01.06-16.16.47:750][102]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2026.01.06-16.16.47:793][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.01.06-16.16.50:561][267]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2026.01.06-16.16.50:593][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.06-16.16.50:636][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerCharacter" FILE="../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Content/Player/BP_PlayerCharacter.uasset" SILENT=true
+[2026.01.06-16.16.50:640][267]LogSavePackage: Moving '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Saved/BP_PlayerCharacter7A702AAA46C6B2E70D843B9D96518A06.tmp' to '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Content/Player/BP_PlayerCharacter.uasset'
+[2026.01.06-16.16.50:654][267]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2026.01.06-16.16.50:654][267]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2026.01.06-16.18.46:458][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.06-16.18.46:459][202]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.014
+[2026.01.06-16.18.46:459][202]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/BP_PlayerCharacter] ([2] browsable assets)...
+[2026.01.06-16.18.46:459][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_PlayerCharacter]
+[2026.01.06-16.18.46:462][202]LogSavePackage: Moving '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Saved/BP_PlayerCharacter_Auto12CCBF65C476D9F60A58D8EAC18EBB00B.tmp' to '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Saved/Autosaves/Game/Player/BP_PlayerCharacter_Auto1.uasset'
+[2026.01.06-16.18.46:462][202]LogFileHelpers: Auto-saving content packages took 0.003
+[2026.01.06-16.23.39:682][430]LogSlate: Window 'Add Content to the Project' being destroyed
+[2026.01.06-16.23.49:110][576]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/bradl/Downloads/als-ragdoll/source/ALS Ragdoll/ALS Ragdoll.fbx)
+[2026.01.06-16.23.49:128][576]LogFbx: Loading FBX Scene from ../../../../../../Users/bradl/Downloads/als-ragdoll/source/ALS Ragdoll/ALS Ragdoll.fbx
+[2026.01.06-16.23.49:146][576]LogFbx: FBX Scene Loaded Succesfully
+[2026.01.06-16.24.03:032][576]LogSlate: Window 'FBX Import Options' being destroyed
+[2026.01.06-16.24.03:090][576]LogFbx: Warning: Not valid bind pose for Pose (CharacterMesh0) - Node CharacterMesh0 : The relative matrices do not match
+[2026.01.06-16.24.03:090][576]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2026.01.06-16.24.03:091][576]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - CharacterMesh0
+[2026.01.06-16.24.03:091][576]LogFbx: Warning: Recreating bind pose succeeded.
+[2026.01.06-16.24.03:095][576]LogMaterial: Display: Material /Game/Player/Assets/MaterialInstanceDynamic_2.MaterialInstanceDynamic_2 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.06-16.24.03:095][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_2 in PCD3D_SM5, Default, SM5 (DDC key hash: ED393E7741E157C0D7721EDA703B12D4FB7B5A18), compiling. 
+[2026.01.06-16.24.03:121][576]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.06-16.24.03:123][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 604633A587B662B7CF3F9373F3058EE74C946E1B), compiling. 
+[2026.01.06-16.24.03:124][576]LogMaterial: Display: Material /Game/Player/Assets/MaterialInstanceDynamic_1.MaterialInstanceDynamic_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.06-16.24.03:125][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_1 in PCD3D_SM5, Default, SM5 (DDC key hash: BE924377A547DE7996A20447DBA8B06E7A3F77D1), compiling. 
+[2026.01.06-16.24.03:136][576]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.06-16.24.03:137][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 82E91B4A668BED2F0E0D73BBE69BDD358575FC70), compiling. 
+[2026.01.06-16.24.03:139][576]LogMaterial: Display: Material /Game/Player/Assets/MaterialInstanceDynamic_0.MaterialInstanceDynamic_0 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.06-16.24.03:140][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 189D7D498F68E15C6A496EB2440F5634EDE73763), compiling. 
+[2026.01.06-16.24.03:150][576]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.06-16.24.03:151][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 072C763D390D91BFECA104280A6B856BF1BB4843), compiling. 
+[2026.01.06-16.24.03:154][576]LogMaterial: Display: Material /Game/Player/Assets/MaterialInstanceDynamic_7.MaterialInstanceDynamic_7 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.06-16.24.03:155][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_7 in PCD3D_SM5, Default, SM5 (DDC key hash: DDCE35084D8F15CC8E49C6AAA1F6609C2793D35D), compiling. 
+[2026.01.06-16.24.03:166][576]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.06-16.24.03:167][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 4F80F2343B438395DF78C35C0F2A462FC174E79E), compiling. 
+[2026.01.06-16.24.03:168][576]LogMaterial: Display: Material /Game/Player/Assets/MaterialInstanceDynamic_6.MaterialInstanceDynamic_6 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.06-16.24.03:169][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 59DADB11B40093F4CDA3E108A95157D785228BE3), compiling. 
+[2026.01.06-16.24.03:180][576]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.06-16.24.03:181][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 375E4B47D143713AB85C5F66C4E0CEF37A74433F), compiling. 
+[2026.01.06-16.24.03:183][576]LogMaterial: Display: Material /Game/Player/Assets/MaterialInstanceDynamic_8.MaterialInstanceDynamic_8 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.06-16.24.03:184][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_8 in PCD3D_SM5, Default, SM5 (DDC key hash: AAD2ACD995C38C54C6E5D6A884BDB796322B1CAD), compiling. 
+[2026.01.06-16.24.03:195][576]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.06-16.24.03:196][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 57DD2AC5C46B52F0769D8E7035684AEC7D1B292C), compiling. 
+[2026.01.06-16.24.03:197][576]LogMaterial: Display: Material /Game/Player/Assets/MaterialInstanceDynamic_3.MaterialInstanceDynamic_3 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.06-16.24.03:198][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 4D61C328CF28C4E7C89D3E6C6B38BFF735B1021B), compiling. 
+[2026.01.06-16.24.03:209][576]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.06-16.24.03:211][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_3 in PCD3D_SM5, Default, SM5 (DDC key hash: DAF6CF6DAB62C645D91B7E91D5DFF017D8C19A92), compiling. 
+[2026.01.06-16.24.03:212][576]LogMaterial: Display: Material /Game/Player/Assets/MaterialInstanceDynamic_4.MaterialInstanceDynamic_4 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.06-16.24.03:213][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 7CB77B81DFB915898C67114DA192D0E8578BC2E9), compiling. 
+[2026.01.06-16.24.03:224][576]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.06-16.24.03:225][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 90890C8014D87916A400F14930EB10770F75F86A), compiling. 
+[2026.01.06-16.24.03:226][576]LogMaterial: Display: Material /Game/Player/Assets/MaterialInstanceDynamic_5.MaterialInstanceDynamic_5 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.06-16.24.03:227][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 8293A72C01E848C6B9948E31D83DF619DC848D14), compiling. 
+[2026.01.06-16.24.03:236][576]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.06-16.24.03:237][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 6D2385F2C10F61B9ADBE5F0E20945B95EF0117C5), compiling. 
+[2026.01.06-16.24.03:238][576]LogMaterial: Display: Material /Game/Player/Assets/MaterialInstanceDynamic_9.MaterialInstanceDynamic_9 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.06-16.24.03:240][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_9 in PCD3D_SM5, Default, SM5 (DDC key hash: 15CE457C863359913313F46A673D058C6BD86D14), compiling. 
+[2026.01.06-16.24.03:249][576]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.06-16.24.03:250][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_9 in PCD3D_SM5, Default, SM5 (DDC key hash: 27DEC78741E34520149611A9B8599CA6C6E272E6), compiling. 
+[2026.01.06-16.24.03:251][576]LogMaterial: Display: Material /Game/Player/Assets/Fbx_Default_Material_10.Fbx_Default_Material_10 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.06-16.24.03:252][576]LogMaterial: Display: Missing cached shadermap for Fbx_Default_Material_10 in PCD3D_SM5, Default, SM5 (DDC key hash: EA56E204C8842FF64D52F1F8977D600C26A08488), compiling. 
+[2026.01.06-16.24.03:263][576]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.06-16.24.03:264][576]LogMaterial: Display: Missing cached shadermap for Fbx_Default_Material_10 in PCD3D_SM5, Default, SM5 (DDC key hash: 1BD49E4D48B988EB46489D3E5A3B45D570480B23), compiling. 
+[2026.01.06-16.24.03:265][576]LogMaterial: Display: Material /Game/Player/Assets/MaterialInstanceDynamic_11.MaterialInstanceDynamic_11 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.06-16.24.03:266][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_11 in PCD3D_SM5, Default, SM5 (DDC key hash: 7476140ED08232D3DEBC06D9390C689CF9D58341), compiling. 
+[2026.01.06-16.24.03:277][576]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.06-16.24.03:278][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_11 in PCD3D_SM5, Default, SM5 (DDC key hash: 4D609C1A255F81941525E34AF26ADFF05A99AF9D), compiling. 
+[2026.01.06-16.24.03:278][576]LogMaterial: Display: Material /Game/Player/Assets/MaterialInstanceDynamic_10.MaterialInstanceDynamic_10 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.06-16.24.03:279][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_10 in PCD3D_SM5, Default, SM5 (DDC key hash: 8C3CFC577D56D6BDF0C3036DF1973DD19B9305B4), compiling. 
+[2026.01.06-16.24.03:289][576]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.06-16.24.03:290][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_10 in PCD3D_SM5, Default, SM5 (DDC key hash: 8F23D845F7E2B42F33965D51A4FFE75E4775A267), compiling. 
+[2026.01.06-16.24.03:291][576]LogMaterial: Display: Material /Game/Player/Assets/MaterialInstanceDynamic_12.MaterialInstanceDynamic_12 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.06-16.24.03:292][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_12 in PCD3D_SM5, Default, SM5 (DDC key hash: 52A716C3B0DB317EF513D2BA4251463F774C41AD), compiling. 
+[2026.01.06-16.24.03:301][576]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.06-16.24.03:303][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_12 in PCD3D_SM5, Default, SM5 (DDC key hash: EFAFD7E1A6076D1F0C00605C5910474F8571160C), compiling. 
+[2026.01.06-16.24.03:304][576]LogMaterial: Display: Material /Game/Player/Assets/MaterialInstanceDynamic_13.MaterialInstanceDynamic_13 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.06-16.24.03:305][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_13 in PCD3D_SM5, Default, SM5 (DDC key hash: 855F7A96E6DEAB9EB47DE6F80DE160D90C297BF7), compiling. 
+[2026.01.06-16.24.03:315][576]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.06-16.24.03:316][576]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_13 in PCD3D_SM5, Default, SM5 (DDC key hash: 3F6E162E9853184A4FB5D19E7CD11DA607BCBDF2), compiling. 
+[2026.01.06-16.24.03:335][576]LogFbx: Warning: Bones digested - 94  Depth of hierarchy - 14
+[2026.01.06-16.24.03:516][576]LogSkeletalMesh: Section 0: Material=0, 480 triangles
+[2026.01.06-16.24.03:516][576]LogSkeletalMesh: Section 1: Material=1, 1920 triangles
+[2026.01.06-16.24.03:516][576]LogSkeletalMesh: Section 2: Material=2, 2320 triangles
+[2026.01.06-16.24.03:516][576]LogSkeletalMesh: Section 3: Material=3, 480 triangles
+[2026.01.06-16.24.03:516][576]LogSkeletalMesh: Section 4: Material=4, 480 triangles
+[2026.01.06-16.24.03:516][576]LogSkeletalMesh: Section 5: Material=5, 480 triangles
+[2026.01.06-16.24.03:516][576]LogSkeletalMesh: Section 6: Material=6, 960 triangles
+[2026.01.06-16.24.03:516][576]LogSkeletalMesh: Section 7: Material=7, 960 triangles
+[2026.01.06-16.24.03:516][576]LogSkeletalMesh: Section 8: Material=8, 1008 triangles
+[2026.01.06-16.24.03:516][576]LogSkeletalMesh: Section 9: Material=9, 2756 triangles
+[2026.01.06-16.24.03:516][576]LogSkeletalMesh: Section 10: Material=10, 504 triangles
+[2026.01.06-16.24.03:516][576]LogSkeletalMesh: Section 11: Material=11, 480 triangles
+[2026.01.06-16.24.03:516][576]LogSkeletalMesh: Section 12: Material=12, 480 triangles
+[2026.01.06-16.24.03:516][576]LogSkeletalMesh: Section 13: Material=13, 480 triangles
+[2026.01.06-16.24.03:516][576]LogSkeletalMesh: Section 14: Material=14, 2756 triangles
+[2026.01.06-16.24.03:517][576]LogSkeletalMesh: Building Skeletal Mesh ALS_Ragdoll...
+[2026.01.06-16.24.03:680][576]LogSkeletalMesh: Section 0: Material=0, 480 triangles
+[2026.01.06-16.24.03:680][576]LogSkeletalMesh: Section 1: Material=1, 1920 triangles
+[2026.01.06-16.24.03:680][576]LogSkeletalMesh: Section 2: Material=2, 2320 triangles
+[2026.01.06-16.24.03:680][576]LogSkeletalMesh: Section 3: Material=3, 480 triangles
+[2026.01.06-16.24.03:680][576]LogSkeletalMesh: Section 4: Material=4, 480 triangles
+[2026.01.06-16.24.03:680][576]LogSkeletalMesh: Section 5: Material=5, 480 triangles
+[2026.01.06-16.24.03:680][576]LogSkeletalMesh: Section 6: Material=6, 960 triangles
+[2026.01.06-16.24.03:680][576]LogSkeletalMesh: Section 7: Material=7, 960 triangles
+[2026.01.06-16.24.03:680][576]LogSkeletalMesh: Section 8: Material=8, 1008 triangles
+[2026.01.06-16.24.03:680][576]LogSkeletalMesh: Section 9: Material=9, 2756 triangles
+[2026.01.06-16.24.03:680][576]LogSkeletalMesh: Section 10: Material=10, 504 triangles
+[2026.01.06-16.24.03:680][576]LogSkeletalMesh: Section 11: Material=11, 480 triangles
+[2026.01.06-16.24.03:680][576]LogSkeletalMesh: Section 12: Material=12, 480 triangles
+[2026.01.06-16.24.03:680][576]LogSkeletalMesh: Section 13: Material=13, 480 triangles
+[2026.01.06-16.24.03:680][576]LogSkeletalMesh: Section 14: Material=14, 2756 triangles
+[2026.01.06-16.24.03:693][576]LogSkeletalMesh: Built Skeletal Mesh [0.18s] /Game/Player/Assets/ALS_Ragdoll.ALS_Ragdoll
+[2026.01.06-16.24.03:703][576]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-16.24.03:703][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-16.24.03:719][576]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2026.01.06-16.24.03:719][576]FBXImport: Warning: The following bones are missing from the bind pose:
+index_03_l_end  
+middle_03_l_end  
+pinky_03_l_end  
+ring_03_l_end  
+thumb_03_l_end  
+lowerarm_twist_01_l_end  
+upperarm_twist_01_l_end  
+index_03_r_end  
+middle_03_r_end  
+pinky_03_r_end  
+ring_03_r_end  
+thumb_03_r_end  
+lowerarm_twist_01_r_end  
+upperarm_twist_01_r_end  
+head_end  
+calf_twist_01_l_end  
+ball_l_end  
+thigh_twist_01_l_end  
+calf_twist_01_r_end  
+ball_r_end  
+thigh_twist_01_r_end  
+ik_foot_l_end  
+ik_foot_r_end  
+ik_hand_l_end  
+ik_hand_r_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2026.01.06-16.24.03:828][580]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:828][580]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 2
+[2026.01.06-16.24.03:828][580]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 1
+[2026.01.06-16.24.03:829][580]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:829][580]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:829][580]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:834][581]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:834][581]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:834][581]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:836][581]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:839][581]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:839][581]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 14
+[2026.01.06-16.24.03:839][581]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 13
+[2026.01.06-16.24.03:839][581]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 12
+[2026.01.06-16.24.03:839][581]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 11
+[2026.01.06-16.24.03:839][581]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 10
+[2026.01.06-16.24.03:839][581]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 9
+[2026.01.06-16.24.03:839][581]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 8
+[2026.01.06-16.24.03:839][581]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 7
+[2026.01.06-16.24.03:839][581]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 6
+[2026.01.06-16.24.03:839][581]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 5
+[2026.01.06-16.24.03:839][581]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 4
+[2026.01.06-16.24.03:839][581]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 3
+[2026.01.06-16.24.03:839][581]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 2
+[2026.01.06-16.24.03:839][581]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 1
+[2026.01.06-16.24.03:839][581]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:839][581]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:842][581]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:843][581]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:845][581]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:847][581]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:849][581]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:852][581]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:884][582]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:901][582]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.03:909][582]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:913][582]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 18
+[2026.01.06-16.24.03:913][582]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 17
+[2026.01.06-16.24.03:913][582]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 16
+[2026.01.06-16.24.03:913][582]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 15
+[2026.01.06-16.24.03:913][582]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 14
+[2026.01.06-16.24.03:913][582]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 13
+[2026.01.06-16.24.03:913][582]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 12
+[2026.01.06-16.24.03:913][582]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 11
+[2026.01.06-16.24.03:913][582]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 10
+[2026.01.06-16.24.03:913][582]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 9
+[2026.01.06-16.24.03:913][582]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 8
+[2026.01.06-16.24.03:913][582]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 7
+[2026.01.06-16.24.03:913][582]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:923][582]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.03:937][582]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:952][582]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.03:959][582]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.03:976][582]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.03:985][582]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.04:005][582]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.04:011][582]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.04:026][582]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.04:030][582]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.04:044][582]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.04:049][582]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.04:064][582]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.04:069][582]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.04:084][582]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.04:088][582]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.04:102][582]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.04:107][582]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.04:122][582]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.04:127][582]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.04:141][582]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.04:146][582]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.04:160][582]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.04:164][582]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.04:178][582]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.04:183][582]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.04:198][582]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.04:661][600]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.06-16.24.04:661][600]LogShaderCompilers: Display: Total job queries 960, among them cache hits 0 (0.00%)
+[2026.01.06-16.24.04:661][600]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2026.01.06-16.24.04:661][600]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2026.01.06-16.24.04:661][600]LogShaderCompilers: Display: ================================================
+[2026.01.06-16.24.04:694][602]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 32
+[2026.01.06-16.24.04:694][602]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.04:714][603]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 30
+[2026.01.06-16.24.04:714][603]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 28
+[2026.01.06-16.24.04:714][603]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 26
+[2026.01.06-16.24.04:714][603]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 24
+[2026.01.06-16.24.04:714][603]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 22
+[2026.01.06-16.24.04:714][603]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 20
+[2026.01.06-16.24.04:714][603]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 18
+[2026.01.06-16.24.04:714][603]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 16
+[2026.01.06-16.24.04:714][603]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 14
+[2026.01.06-16.24.04:714][603]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 12
+[2026.01.06-16.24.04:714][603]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.04:762][605]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 10
+[2026.01.06-16.24.04:762][605]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.04:785][606]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2026.01.06-16.24.04:786][606]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 8
+[2026.01.06-16.24.04:786][606]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 7
+[2026.01.06-16.24.04:786][606]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 6
+[2026.01.06-16.24.04:786][606]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 5
+[2026.01.06-16.24.04:786][606]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 4
+[2026.01.06-16.24.04:786][606]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 3
+[2026.01.06-16.24.04:786][606]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 2
+[2026.01.06-16.24.04:786][606]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 1
+[2026.01.06-16.24.04:786][606]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 420
+[2026.01.06-16.24.04:786][606]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.04:786][606]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.04:842][609]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 410
+[2026.01.06-16.24.04:843][609]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 400
+[2026.01.06-16.24.04:843][609]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 390
+[2026.01.06-16.24.04:843][609]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 380
+[2026.01.06-16.24.04:843][609]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.04:867][610]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 370
+[2026.01.06-16.24.04:867][610]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.04:881][611]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 360
+[2026.01.06-16.24.04:881][611]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.05:230][622]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 350
+[2026.01.06-16.24.05:230][622]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.05:342][625]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 340
+[2026.01.06-16.24.05:342][625]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 330
+[2026.01.06-16.24.05:342][625]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 320
+[2026.01.06-16.24.05:342][625]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.05:342][625]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 310
+[2026.01.06-16.24.05:342][625]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.05:412][628]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 300
+[2026.01.06-16.24.05:412][628]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.05:435][628]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 290
+[2026.01.06-16.24.05:435][628]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.05:472][629]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 280
+[2026.01.06-16.24.05:472][629]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 270
+[2026.01.06-16.24.05:472][629]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.05:661][634]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 260
+[2026.01.06-16.24.05:661][634]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.05:829][641]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 250
+[2026.01.06-16.24.05:829][641]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.05:886][643]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 241
+[2026.01.06-16.24.05:886][643]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 232
+[2026.01.06-16.24.05:886][643]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.05:994][647]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 223
+[2026.01.06-16.24.05:994][647]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 215
+[2026.01.06-16.24.05:994][647]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 207
+[2026.01.06-16.24.05:994][647]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 199
+[2026.01.06-16.24.05:994][647]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.06:045][649]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 191
+[2026.01.06-16.24.06:045][649]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 184
+[2026.01.06-16.24.06:045][649]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.06:066][650]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 177
+[2026.01.06-16.24.06:066][650]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.06:110][652]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 170
+[2026.01.06-16.24.06:110][652]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.08:501][770]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 163
+[2026.01.06-16.24.08:501][770]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.08:680][780]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 157
+[2026.01.06-16.24.08:680][780]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.08:741][783]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 151
+[2026.01.06-16.24.08:741][783]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.08:866][790]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 145
+[2026.01.06-16.24.08:866][790]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.08:968][795]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 139
+[2026.01.06-16.24.08:968][795]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.09:115][803]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 134
+[2026.01.06-16.24.09:115][803]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.09:156][805]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 129
+[2026.01.06-16.24.09:156][805]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.09:299][813]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 124
+[2026.01.06-16.24.09:299][813]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.09:319][814]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 119
+[2026.01.06-16.24.09:319][814]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.09:474][823]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 114
+[2026.01.06-16.24.09:474][823]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 109
+[2026.01.06-16.24.09:474][823]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 104
+[2026.01.06-16.24.09:474][823]LogShaderCompilers: Display: Started 15 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.09:527][825]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 99
+[2026.01.06-16.24.09:527][825]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 95
+[2026.01.06-16.24.09:527][825]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.09:593][828]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 91
+[2026.01.06-16.24.09:594][828]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 87
+[2026.01.06-16.24.09:594][828]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.09:697][833]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 83
+[2026.01.06-16.24.09:697][833]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.09:839][840]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 80
+[2026.01.06-16.24.09:839][840]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.09:920][844]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 77
+[2026.01.06-16.24.09:920][844]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.09:952][845]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 74
+[2026.01.06-16.24.09:952][845]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 71
+[2026.01.06-16.24.09:952][845]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.09:952][845]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 68
+[2026.01.06-16.24.09:952][845]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.10:057][850]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 65
+[2026.01.06-16.24.10:057][850]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.10:127][854]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 62
+[2026.01.06-16.24.10:128][854]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.10:257][860]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 59
+[2026.01.06-16.24.10:257][860]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.10:676][883]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 56
+[2026.01.06-16.24.10:676][883]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.10:825][891]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 53
+[2026.01.06-16.24.10:825][891]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 51
+[2026.01.06-16.24.10:825][891]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.10:897][894]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 49
+[2026.01.06-16.24.10:898][894]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:037][902]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 47
+[2026.01.06-16.24.11:037][902]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:037][902]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 45
+[2026.01.06-16.24.11:037][902]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:108][905]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 43
+[2026.01.06-16.24.11:108][905]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 41
+[2026.01.06-16.24.11:108][905]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 39
+[2026.01.06-16.24.11:108][905]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:226][911]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 37
+[2026.01.06-16.24.11:226][911]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 35
+[2026.01.06-16.24.11:226][911]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:226][911]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 33
+[2026.01.06-16.24.11:226][911]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 31
+[2026.01.06-16.24.11:226][911]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 29
+[2026.01.06-16.24.11:226][911]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 27
+[2026.01.06-16.24.11:226][911]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:302][915]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 25
+[2026.01.06-16.24.11:302][915]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:393][920]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 24
+[2026.01.06-16.24.11:393][920]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:420][921]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 23
+[2026.01.06-16.24.11:420][921]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:456][923]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 22
+[2026.01.06-16.24.11:457][923]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:560][928]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 21
+[2026.01.06-16.24.11:560][928]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 20
+[2026.01.06-16.24.11:560][928]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:560][928]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 19
+[2026.01.06-16.24.11:560][928]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:611][931]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 18
+[2026.01.06-16.24.11:611][931]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:654][933]LogSlate: Window 'Message Log' being destroyed
+[2026.01.06-16.24.11:714][934]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 17
+[2026.01.06-16.24.11:714][934]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:714][934]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 16
+[2026.01.06-16.24.11:714][934]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 15
+[2026.01.06-16.24.11:714][934]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:766][937]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 14
+[2026.01.06-16.24.11:767][937]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:884][942]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 13
+[2026.01.06-16.24.11:884][942]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:884][942]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 12
+[2026.01.06-16.24.11:884][942]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 11
+[2026.01.06-16.24.11:884][942]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 10
+[2026.01.06-16.24.11:884][942]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:892][942]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 9
+[2026.01.06-16.24.11:892][942]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 8
+[2026.01.06-16.24.11:892][942]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:984][945]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 7
+[2026.01.06-16.24.11:984][945]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.11:984][945]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 6
+[2026.01.06-16.24.11:984][945]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 5
+[2026.01.06-16.24.11:984][945]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.12:051][947]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 4
+[2026.01.06-16.24.12:051][947]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.12:051][947]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 3
+[2026.01.06-16.24.12:051][947]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.12:092][949]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 2
+[2026.01.06-16.24.12:092][949]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 1
+[2026.01.06-16.24.12:092][949]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.13:708][ 42]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Player/Assets/ALS_Ragdoll_Skeleton.ALS_Ragdoll_Skeleton
+[2026.01.06-16.24.13:846][ 42]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2026.01.06-16.24.13:850][ 42]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2026.01.06-16.24.13:912][ 42]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2026.01.06-16.24.13:967][ 42]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.06-16.24.13:970][ 42]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2026.01.06-16.24.16:886][201]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-16.24.16:886][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-16.24.32:820][153]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2026.01.06-16.24.32:875][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.01.06-16.24.32:916][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_PlayerCharacter" FILE="../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Content/Player/BP_PlayerCharacter.uasset" SILENT=true
+[2026.01.06-16.24.32:925][153]LogSavePackage: Moving '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Saved/BP_PlayerCharacter58EA55C94153D49343AEB0BB72B5816A.tmp' to '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Content/Player/BP_PlayerCharacter.uasset'
+[2026.01.06-16.24.32:941][153]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2026.01.06-16.24.32:941][153]LogContentValidation: Display: Validating Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2026.01.06-16.24.34:155][226]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-16.24.34:155][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-16.24.53:480][381]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Player/Assets/MaterialInstanceDynamic_0.MaterialInstanceDynamic_0
+[2026.01.06-16.24.53:481][381]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9C9CCD761F1E5009161ABCADC14BBDFCB3AB78B1), compiling. 
+[2026.01.06-16.24.53:489][381]LogShaderCompilers: Display: Submitted 20 shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.53:535][381]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A7365AE882C4BD34501BBA34A12CC8530FAA6F99), compiling. 
+[2026.01.06-16.24.53:536][381]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5E48715733BB6DD8E2A71C084EEFBBEF74B9ADDE), compiling. 
+[2026.01.06-16.24.53:543][381]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.06-16.24.53:546][381]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.01.06-16.24.53:597][382]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.53:597][382]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 2
+[2026.01.06-16.24.53:597][382]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 1
+[2026.01.06-16.24.53:597][382]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.53:597][382]LogShaderCompilers: Display: Submitted 18 shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.53:597][382]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 18
+[2026.01.06-16.24.53:597][382]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 17
+[2026.01.06-16.24.53:597][382]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 16
+[2026.01.06-16.24.53:597][382]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 15
+[2026.01.06-16.24.53:597][382]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 14
+[2026.01.06-16.24.53:597][382]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 13
+[2026.01.06-16.24.53:597][382]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 12
+[2026.01.06-16.24.53:597][382]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 11
+[2026.01.06-16.24.53:597][382]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 10
+[2026.01.06-16.24.53:597][382]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 9
+[2026.01.06-16.24.53:597][382]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 8
+[2026.01.06-16.24.53:597][382]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 7
+[2026.01.06-16.24.53:598][382]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 6
+[2026.01.06-16.24.53:598][382]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 5
+[2026.01.06-16.24.53:598][382]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 4
+[2026.01.06-16.24.53:598][382]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 3
+[2026.01.06-16.24.53:598][382]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 2
+[2026.01.06-16.24.53:598][382]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 1
+[2026.01.06-16.24.53:598][382]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.24.53:627][383]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.53:660][385]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 2
+[2026.01.06-16.24.53:660][385]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 1
+[2026.01.06-16.24.53:660][385]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.24.54:180][411]MaterialEditorStats: Texture samplers: 2/16
+[2026.01.06-16.24.54:462][426]MaterialEditorStats: Base pass shader: 119 instructions
+[2026.01.06-16.24.54:462][426]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2026.01.06-16.24.54:462][426]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2026.01.06-16.24.54:462][426]MaterialEditorStats: Base pass vertex shader: 96 instructions
+[2026.01.06-16.24.54:462][426]MaterialEditorStats: Texture samplers: 2/16
+[2026.01.06-16.24.58:093][639]LogSlate: Window 'MaterialInstanceDynamic_0' being destroyed
+[2026.01.06-16.25.08:694][274]LogMaterialEditor: Saving and Compiling material MaterialInstanceDynamic_0
+[2026.01.06-16.25.08:875][274]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B9AC1554B363EF389F0AEA676BF37A42DA8FB1BE), compiling. 
+[2026.01.06-16.25.08:910][274]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 85E0553D8322E51CA863B9CFDC03E496AD0BAFF7), compiling. 
+[2026.01.06-16.25.08:943][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.01.06-16.25.09:092][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.01.06-16.25.09:176][274]LogSavePackage: Moving '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Saved/MaterialInstanceDynamic_038B9DAB94D5CE8FC8DCEB8A05561BC5F.tmp' to '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Content/Player/Assets/MaterialInstanceDynamic_0.uasset'
+[2026.01.06-16.25.09:188][274]AssetCheck: New page: Asset Save: MaterialInstanceDynamic_0
+[2026.01.06-16.25.09:188][274]LogContentValidation: Display: Validating Material /Game/Player/Assets/MaterialInstanceDynamic_0.MaterialInstanceDynamic_0
+[2026.01.06-16.25.09:198][274]MaterialEditorStats: Base pass shader: 119 instructions
+[2026.01.06-16.25.09:199][274]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2026.01.06-16.25.09:199][274]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2026.01.06-16.25.09:199][274]MaterialEditorStats: Base pass vertex shader: 96 instructions
+[2026.01.06-16.25.09:199][274]MaterialEditorStats: Texture samplers: 3/16
+[2026.01.06-16.25.23:211][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.01.06-16.25.24:633][114]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.06-16.25.24:702][114]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-16.25.24:702][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-16.25.24:715][114]LogUObjectGlobals: Force Deleting 14 Package(s):
+	Asset Name: /Game/Player/Assets/MaterialInstanceDynamic_0.MaterialInstanceDynamic_0
+	Asset Name: /Game/Player/Assets/MaterialInstanceDynamic_1.MaterialInstanceDynamic_1
+	Asset Name: /Game/Player/Assets/MaterialInstanceDynamic_2.MaterialInstanceDynamic_2
+	Asset Name: /Game/Player/Assets/MaterialInstanceDynamic_3.MaterialInstanceDynamic_3
+	Asset Name: /Game/Player/Assets/MaterialInstanceDynamic_4.MaterialInstanceDynamic_4
+	Asset Name: /Game/Player/Assets/MaterialInstanceDynamic_5.MaterialInstanceDynamic_5
+	Asset Name: /Game/Player/Assets/MaterialInstanceDynamic_6.MaterialInstanceDynamic_6
+	Asset Name: /Game/Player/Assets/MaterialInstanceDynamic_7.MaterialInstanceDynamic_7
+	Asset Name: /Game/Player/Assets/MaterialInstanceDynamic_8.MaterialInstanceDynamic_8
+	Asset Name: /Game/Player/Assets/MaterialInstanceDynamic_9.MaterialInstanceDynamic_9
+[2026.01.06-16.25.25:336][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.01.06-16.25.25:348][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.01.06-16.25.25:357][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.01.06-16.25.48:242][478]LogContentBrowser: Attempting asset rename: Fbx_Default_Material_10 -> M_Eyes
+[2026.01.06-16.25.48:317][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Assets/M_Eyes" FILE="../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Content/Player/Assets/M_Eyes.uasset" SILENT=true
+[2026.01.06-16.25.48:321][478]LogSavePackage: Moving '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Saved/M_EyesCF63ADC64C421ABC8FD2619B801A4DD1.tmp' to '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Content/Player/Assets/M_Eyes.uasset'
+[2026.01.06-16.25.48:392][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.06-16.25.48:421][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.01.06-16.25.48:433][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.06-16.25.48:444][478]AssetCheck: New page: Asset Save: M_Eyes
+[2026.01.06-16.25.48:444][478]LogContentValidation: Display: Validating Material /Game/Player/Assets/M_Eyes.M_Eyes
+[2026.01.06-16.26.00:826][219]LogContentBrowser: Deferred new asset file creation: M_Eyes1
+[2026.01.06-16.26.00:835][219]LogContentBrowser: Creating deferred item: M_Eyes1
+[2026.01.06-16.26.05:873][522]LogContentBrowser: Attempting asset rename: M_Eyes1 -> M_Body
+[2026.01.06-16.26.05:874][522]LogMaterial: Display: Missing cached shadermap for M_Body in PCD3D_SM5, Default, SM5 (DDC key hash: E18A3444EEC32B18BB6A7D02386E7D178711EFB6), compiling. 
+[2026.01.06-16.26.05:884][522]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.06-16.26.05:885][522]LogContentBrowser: End creating deferred item M_Eyes1
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 2
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 1
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 30
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 28
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 26
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 24
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 22
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 20
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 18
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 16
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 14
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 12
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 10
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 8
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 6
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 4
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 2
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Normal' priority
+[2026.01.06-16.26.05:891][523]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2026.01.06-16.26.08:138][656]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Player/Assets/M_Body.M_Body
+[2026.01.06-16.26.08:139][656]LogMaterial: Display: Missing cached shadermap for M_Body in PCD3D_SM5, Default, SM5 (DDC key hash: CB407F4917C533D85CAEFBB6D7F4EE63E2A24587), compiling. 
+[2026.01.06-16.26.08:190][656]LogMaterial: Display: Missing cached shadermap for M_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 134D1AD4060EA1C4F23B3F9A8B1FD8E262365DA9), compiling. 
+[2026.01.06-16.26.08:192][656]LogMaterial: Display: Missing cached shadermap for M_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 6D372314836F9A27A21E9AD3A3628F0C693C8689), compiling. 
+[2026.01.06-16.26.08:193][656]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A885AB99EAD5A3BB7C6715EADE9ABA8D6AC6F62), compiling. 
+[2026.01.06-16.26.08:199][656]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.06-16.26.08:224][657]MaterialEditorStats: Texture samplers: 2/16
+[2026.01.06-16.26.08:242][658]MaterialEditorStats: Base pass shader: 119 instructions
+[2026.01.06-16.26.08:242][658]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2026.01.06-16.26.08:242][658]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2026.01.06-16.26.08:242][658]MaterialEditorStats: Base pass vertex shader: 96 instructions
+[2026.01.06-16.26.08:242][658]MaterialEditorStats: Texture samplers: 2/16
+[2026.01.06-16.26.18:808][288]LogMaterial: Display: Missing cached shadermap for M_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 3FAED506B890C3BBDB7E2C1F2210770A53F7B739), compiling. 
+[2026.01.06-16.26.18:809][288]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E808E78E9D40E6C3D1C57CD0039A70911DCCE943), compiling. 
+[2026.01.06-16.26.18:810][288]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 51B64DA3DAD50B7410E02BB15288E7F998528B08), compiling. 
+[2026.01.06-16.26.18:811][288]LogMaterial: Display: Missing cached shadermap for M_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 7737F161EFDEB8008D873BA7A6CCBB5043FD352D), compiling. 
+[2026.01.06-16.26.18:812][288]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5F9A5C252FEDC783994F27EAD1D795E5154BD2FE), compiling. 
+[2026.01.06-16.26.18:813][288]LogMaterial: Display: Missing cached shadermap for M_Body in PCD3D_SM5, Default, SM5 (DDC key hash: C5C5E3D814C78F479BF062E524C943A63B7EC9CB), compiling. 
+[2026.01.06-16.26.18:813][288]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.06-16.26.18:827][288]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.06-16.26.18:835][289]MaterialEditorStats: Texture samplers: 2/16
+[2026.01.06-16.26.18:857][290]MaterialEditorStats: Base pass shader: 119 instructions
+[2026.01.06-16.26.18:857][290]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2026.01.06-16.26.18:857][290]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2026.01.06-16.26.18:857][290]MaterialEditorStats: Base pass vertex shader: 96 instructions
+[2026.01.06-16.26.18:857][290]MaterialEditorStats: Texture samplers: 2/16
+[2026.01.06-16.26.20:702][400]LogMaterialEditor: Saving and Compiling material M_Body
+[2026.01.06-16.26.20:882][400]LogMaterial: Display: Missing cached shadermap for M_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 3514DF43DF260B1BBDB0F602D11B1D137E42DA5B), compiling. 
+[2026.01.06-16.26.20:899][400]LogMaterial: Display: Missing cached shadermap for M_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 4E66AA902F68607C182E42946B741D7B0601B542), compiling. 
+[2026.01.06-16.26.20:923][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.01.06-16.26.21:057][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.01.06-16.26.21:118][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Assets/M_Body" FILE="../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Content/Player/Assets/M_Body.uasset" SILENT=true
+[2026.01.06-16.26.21:122][400]LogSavePackage: Moving '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Saved/M_Body1C3F8D824DF24DFFA670A0A06FF9EE2C.tmp' to '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Content/Player/Assets/M_Body.uasset'
+[2026.01.06-16.26.21:135][400]AssetCheck: New page: Asset Save: M_Body
+[2026.01.06-16.26.21:135][400]LogContentValidation: Display: Validating Material /Game/Player/Assets/M_Body.M_Body
+[2026.01.06-16.26.21:143][400]MaterialEditorStats: Base pass shader: 119 instructions
+[2026.01.06-16.26.21:143][400]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2026.01.06-16.26.21:143][400]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2026.01.06-16.26.21:143][400]MaterialEditorStats: Base pass vertex shader: 96 instructions
+[2026.01.06-16.26.21:143][400]MaterialEditorStats: Texture samplers: 3/16
+[2026.01.06-16.26.21:884][445]LogSlate: Window 'M_Body' being destroyed
+[2026.01.06-16.26.21:898][445]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-16.26.21:898][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-16.26.23:322][528]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Player/Assets/ALS_Ragdoll_PhysicsAsset.ALS_Ragdoll_PhysicsAsset
+[2026.01.06-16.26.23:476][528]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0002 seconds. Added 8 classes and 3 folders.
+[2026.01.06-16.26.23:494][528]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2026.01.06-16.26.25:427][627]LogSlate: Window 'ALS_Ragdoll_PhysicsAsset' being destroyed
+[2026.01.06-16.26.25:442][627]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-16.26.25:442][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-16.26.27:997][777]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Player/Assets/ALS_Ragdoll.ALS_Ragdoll
+[2026.01.06-16.26.27:999][777]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.06-16.26.33:057][ 68]LogSlate: Window 'ALS_Ragdoll' being destroyed
+[2026.01.06-16.27.13:800][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Assets/ALS_Ragdoll" FILE="../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Content/Player/Assets/ALS_Ragdoll.uasset" SILENT=true
+[2026.01.06-16.27.13:821][463]LogSavePackage: Moving '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Saved/ALS_Ragdoll7B90515D45E6604EB915519478110BC3.tmp' to '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Content/Player/Assets/ALS_Ragdoll.uasset'
+[2026.01.06-16.27.13:841][463]AssetCheck: New page: Asset Save: ALS_Ragdoll
+[2026.01.06-16.27.13:841][463]LogContentValidation: Display: Validating SkeletalMesh /Game/Player/Assets/ALS_Ragdoll.ALS_Ragdoll
+[2026.01.06-16.27.35:967][787]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-16.27.35:967][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-16.27.37:284][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.01.06-16.27.38:984][861]LogSlate: Window 'Save Content' being destroyed
+[2026.01.06-16.27.39:042][861]LogSavePackage: Moving '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Saved/ALS_Ragdoll_PhysicsAsset85734136465B6C42E751388DF1385E42.tmp' to '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Content/Player/Assets/ALS_Ragdoll_PhysicsAsset.uasset'
+[2026.01.06-16.27.39:043][861]LogSavePackage: Moving '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Saved/ALS_Ragdoll_Skeleton46F22C5447BD165CF1AF5B9AFE23D78B.tmp' to '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Content/Player/Assets/ALS_Ragdoll_Skeleton.uasset'
+[2026.01.06-16.27.39:056][861]AssetCheck: New page: Asset Save: multiple assets
+[2026.01.06-16.27.39:056][861]LogContentValidation: Display: Validating PhysicsAsset /Game/Player/Assets/ALS_Ragdoll_PhysicsAsset.ALS_Ragdoll_PhysicsAsset
+[2026.01.06-16.27.39:056][861]LogContentValidation: Display: Validating Skeleton /Game/Player/Assets/ALS_Ragdoll_Skeleton.ALS_Ragdoll_Skeleton
+[2026.01.06-16.27.51:282][589]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.01.06-16.27.53:109][589]LogSlate: Window 'Save Level As' being destroyed
+[2026.01.06-16.27.55:888][754]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.01.06-16.27.55:900][754]LogContentBrowser: Creating deferred item: NewFolder
+[2026.01.06-16.27.58:120][888]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2026.01.06-16.27.58:120][888]LogContentBrowser: End creating deferred item NewFolder
+[2026.01.06-16.28.14:049][140]LogSlate: Window 'Save Level As' being destroyed
+[2026.01.06-16.28.14:118][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.01.06-16.28.14:123][140]LogSavePackage: Moving '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Saved/M_TestingGrounds855FA9D6469BD2A9CF7558AB3DAFF035.tmp' to '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Content/Levels/M_TestingGrounds.umap'
+[2026.01.06-16.28.14:137][140]LogSavePackage: Moving '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Saved/M_TestingGrounds_BuiltDataF65FE55540221EEB6B00B894AE732F0E.tmp' to '../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Content/Levels/M_TestingGrounds_BuiltData.uasset'
+[2026.01.06-16.28.14:153][140]LogFileHelpers: Saving map 'M_TestingGrounds' took 0.086
+[2026.01.06-16.28.14:153][140]Cmd: MAP LOAD FILE="../../../../../../Users/bradl/Documents/Project_Raider/Project_Raider_Game/Content/Levels/M_TestingGrounds.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.01.06-16.28.14:169][140]LightingResults: New page: Lighting Build
+[2026.01.06-16.28.14:169][140]LoadErrors: New page: Loading map: M_TestingGrounds.umap
+[2026.01.06-16.28.14:171][140]LogWorld: UWorld::CleanupWorld for M_TestingGrounds, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-16.28.14:171][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-16.28.14:171][140]MapCheck: New page: Map Check
+[2026.01.06-16.28.14:171][140]LightingResults: New page: Lighting Build
+[2026.01.06-16.28.14:182][140]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.06-16.28.14:185][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.01.06-16.28.14:192][140]LogAudio: Display: Audio Device (ID: 1) registered with world 'M_TestingGrounds'.
+[2026.01.06-16.28.14:193][140]LogAIModule: Creating AISystem for world M_TestingGrounds
+[2026.01.06-16.28.14:234][140]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.06-16.28.14:247][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.01.06-16.28.14:260][140]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.06-16.28.14:260][140]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2026.01.06-16.28.14:260][140]LogFileHelpers: Loading map 'M_TestingGrounds' took 0.107
+[2026.01.06-16.28.14:266][140]AssetCheck: New page: Asset Save: multiple assets
+[2026.01.06-16.28.14:266][140]LogContentValidation: Display: Validating World /Game/Levels/M_TestingGrounds.M_TestingGrounds
+[2026.01.06-16.28.14:266][140]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/M_TestingGrounds_BuiltData.M_TestingGrounds_BuiltData
+[2026.01.06-16.28.18:438][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2026.01.06-16.28.19:157][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.01.06-16.28.23:068][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.01.06-16.28.23:091][656]LogSlate: Window 'Project_Raider_Game - Unreal Editor' being destroyed
+[2026.01.06-16.28.23:091][656]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2026.01.06-16.28.23:236][657]Cmd: QUIT_EDITOR
+[2026.01.06-16.28.23:236][657]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.01.06-16.28.23:241][657]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.01.06-16.28.23:245][657]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.01.06-16.28.23:245][657]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.01.06-16.28.23:245][657]LogAudio: Display: Audio Device unregistered from world 'M_TestingGrounds'.
+[2026.01.06-16.28.23:246][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.01.06-16.28.23:247][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.01.06-16.28.23:251][657]LogAudio: Display: Audio Device Manager Shutdown
+[2026.01.06-16.28.23:260][657]LogExit: Preparing to exit.
+[2026.01.06-16.28.23:356][657]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2026.01.06-16.28.23:503][657]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-16.28.23:506][657]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-16.28.23:507][657]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-16.28.23:508][657]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-16.28.23:511][657]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-16.28.23:513][657]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-16.28.23:575][657]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2026.01.06-16.28.23:587][657]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-16.28.23:587][657]LogExit: Editor shut down
+[2026.01.06-16.28.23:589][657]LogExit: Transaction tracking system shut down
+[2026.01.06-16.28.24:011][657]LogExit: Object subsystem successfully closed.
+[2026.01.06-16.28.24:214][657]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.06-16.28.24:216][657]LogShaderCompilers: Display: Total job queries 1236, among them cache hits 202 (16.34%)
+[2026.01.06-16.28.24:216][657]LogShaderCompilers: Display: Tracking 534 distinct input hashes that result in 24 distinct outputs (4.49%)
+[2026.01.06-16.28.24:216][657]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2026.01.06-16.28.24:216][657]LogShaderCompilers: Display: ================================================
+[2026.01.06-16.28.24:233][657]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.01.06-16.28.24:361][657]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (880)
+[2026.01.06-16.28.24:362][657]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (878)
+[2026.01.06-16.28.24:362][657]LogModuleManager: Shutting down and abandoning module PinnedCommandList (876)
+[2026.01.06-16.28.24:362][657]LogModuleManager: Shutting down and abandoning module SkeletonEditor (874)
+[2026.01.06-16.28.24:362][657]LogModuleManager: Shutting down and abandoning module BlueprintGraph (872)
+[2026.01.06-16.28.24:362][657]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2026.01.06-16.28.24:362][657]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2026.01.06-16.28.24:362][657]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2026.01.06-16.28.24:363][657]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2026.01.06-16.28.24:363][657]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2026.01.06-16.28.24:363][657]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2026.01.06-16.28.24:363][657]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2026.01.06-16.28.24:363][657]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2026.01.06-16.28.24:363][657]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2026.01.06-16.28.24:363][657]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2026.01.06-16.28.24:363][657]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2026.01.06-16.28.24:363][657]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (848)
+[2026.01.06-16.28.24:363][657]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (846)
+[2026.01.06-16.28.24:363][657]LogModuleManager: Shutting down and abandoning module TakeRecorder (845)
+[2026.01.06-16.28.24:363][657]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (842)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module TakesCore (840)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module OpenXRInput (838)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module GooglePADEditor (836)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (834)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (832)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (830)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (826)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (824)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (822)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (820)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (818)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (816)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module WebMMedia (814)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (812)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (810)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module SequenceRecorder (809)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (806)
+[2026.01.06-16.28.24:364][657]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (804)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (802)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (800)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (798)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module PlanarCut (796)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (794)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (792)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (790)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2026.01.06-16.28.24:365][657]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2026.01.06-16.28.24:366][657]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2026.01.06-16.28.24:366][657]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2026.01.06-16.28.24:366][657]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2026.01.06-16.28.24:366][657]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2026.01.06-16.28.24:366][657]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2026.01.06-16.28.24:366][657]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2026.01.06-16.28.24:366][657]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2026.01.06-16.28.24:366][657]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2026.01.06-16.28.24:366][657]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2026.01.06-16.28.24:366][657]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2026.01.06-16.28.24:366][657]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2026.01.06-16.28.24:366][657]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2026.01.06-16.28.25:308][657]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2026.01.06-16.28.25:308][657]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2026.01.06-16.28.25:308][657]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2026.01.06-16.28.25:308][657]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2026.01.06-16.28.25:308][657]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2026.01.06-16.28.25:309][657]MemoryProfiler: Shutdown
+[2026.01.06-16.28.25:309][657]NetworkingProfiler: Shutdown
+[2026.01.06-16.28.25:309][657]LoadingProfiler: Shutdown
+[2026.01.06-16.28.25:309][657]TimingProfiler: Shutdown
+[2026.01.06-16.28.25:310][657]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2026.01.06-16.28.25:310][657]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2026.01.06-16.28.25:310][657]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2026.01.06-16.28.25:310][657]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2026.01.06-16.28.25:310][657]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2026.01.06-16.28.25:310][657]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2026.01.06-16.28.25:311][657]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2026.01.06-16.28.25:311][657]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2026.01.06-16.28.25:311][657]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2026.01.06-16.28.25:311][657]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2026.01.06-16.28.25:311][657]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2026.01.06-16.28.25:311][657]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2026.01.06-16.28.25:311][657]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2026.01.06-16.28.25:311][657]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2026.01.06-16.28.25:311][657]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2026.01.06-16.28.25:311][657]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2026.01.06-16.28.25:311][657]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2026.01.06-16.28.25:311][657]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2026.01.06-16.28.25:311][657]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2026.01.06-16.28.25:311][657]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2026.01.06-16.28.25:311][657]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2026.01.06-16.28.25:311][657]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2026.01.06-16.28.25:345][657]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2026.01.06-16.28.25:345][657]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2026.01.06-16.28.25:345][657]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2026.01.06-16.28.25:345][657]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2026.01.06-16.28.25:345][657]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2026.01.06-16.28.25:345][657]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2026.01.06-16.28.25:346][657]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2026.01.06-16.28.25:346][657]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2026.01.06-16.28.25:347][657]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2026.01.06-16.28.25:347][657]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2026.01.06-16.28.25:347][657]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2026.01.06-16.28.25:351][657]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2026.01.06-16.28.25:351][657]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2026.01.06-16.28.25:351][657]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2026.01.06-16.28.25:351][657]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2026.01.06-16.28.25:355][657]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2026.01.06-16.28.25:355][657]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2026.01.06-16.28.25:355][657]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2026.01.06-16.28.25:356][657]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2026.01.06-16.28.25:357][657]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2026.01.06-16.28.25:357][657]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2026.01.06-16.28.25:357][657]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2026.01.06-16.28.25:357][657]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2026.01.06-16.28.25:357][657]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2026.01.06-16.28.25:357][657]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2026.01.06-16.28.25:357][657]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2026.01.06-16.28.25:357][657]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2026.01.06-16.28.25:357][657]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2026.01.06-16.28.25:357][657]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2026.01.06-16.28.25:357][657]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2026.01.06-16.28.25:357][657]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2026.01.06-16.28.25:357][657]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2026.01.06-16.28.25:358][657]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2026.01.06-16.28.25:358][657]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2026.01.06-16.28.25:358][657]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2026.01.06-16.28.25:358][657]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2026.01.06-16.28.25:358][657]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2026.01.06-16.28.25:392][657]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2026.01.06-16.28.25:615][657]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2026.01.06-16.28.25:616][657]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2026.01.06-16.28.25:616][657]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2026.01.06-16.28.25:616][657]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2026.01.06-16.28.25:616][657]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (598)
+[2026.01.06-16.28.25:616][657]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (596)
+[2026.01.06-16.28.25:616][657]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2026.01.06-16.28.25:616][657]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module GitSourceControl (590)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (588)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module ScreenshotTools (586)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (584)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (582)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (580)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module TemplateSequence (578)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module UObjectPlugin (576)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (574)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (572)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (570)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module PluginUtils (568)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (566)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module SourceControl (565)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (562)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module TakeSequencer (560)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module TakeMovieScene (558)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module OpenXREditor (556)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module SynthesisEditor (554)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module Synthesis (552)
+[2026.01.06-16.28.25:617][657]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (550)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (548)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (546)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module GooglePAD (544)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module EditableMesh (542)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module AssetTags (540)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module AudioCapture (538)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (537)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (534)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module CableComponent (532)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (530)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (528)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module AppleImageUtils (526)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module AndroidPermission (524)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (522)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (520)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module MediaCompositing (518)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module ImgMedia (516)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (514)
+[2026.01.06-16.28.25:618][657]LogOpenImageDenoise: OIDN shutting down
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (512)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module MotoSynth (510)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module MeshConversion (508)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module DynamicMesh (506)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (504)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module GeometricObjects (502)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (500)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (499)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (496)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (494)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (492)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (490)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (488)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (486)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (484)
+[2026.01.06-16.28.25:618][657]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (482)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (480)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (478)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module ChaosNiagara (476)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module FractureEditor (474)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (473)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (470)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module BackChannel (468)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (466)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module AlembicImporter (464)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module AlembicLibrary (463)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module GeometryCache (462)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (461)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (456)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module AutomationUtils (454)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (452)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (450)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (448)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module PluginBrowser (446)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (444)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module CryptoKeys (442)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module CurveEditorTools (440)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (438)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (436)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (434)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (432)
+[2026.01.06-16.28.25:619][657]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (430)
+[2026.01.06-16.28.25:620][657]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (428)
+[2026.01.06-16.28.25:620][657]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (426)
+[2026.01.06-16.28.25:620][657]LogModuleManager: Shutting down and abandoning module LiveLink (424)
+[2026.01.06-16.28.26:387][657]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (422)
+[2026.01.06-16.28.26:387][657]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2026.01.06-16.28.26:387][657]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2026.01.06-16.28.26:388][657]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2026.01.06-16.28.26:388][657]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2026.01.06-16.28.26:390][657]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2026.01.06-16.28.26:390][657]LogModuleManager: Shutting down and abandoning module AnimationSharing (410)
+[2026.01.06-16.28.26:390][657]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (408)
+[2026.01.06-16.28.26:390][657]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (406)
+[2026.01.06-16.28.26:390][657]LogModuleManager: Shutting down and abandoning module SoundFields (402)
+[2026.01.06-16.28.26:390][657]LogModuleManager: Shutting down and abandoning module SignificanceManager (400)
+[2026.01.06-16.28.26:390][657]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (398)
+[2026.01.06-16.28.26:390][657]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (396)
+[2026.01.06-16.28.26:390][657]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (394)
+[2026.01.06-16.28.26:390][657]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (392)
+[2026.01.06-16.28.26:390][657]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (390)
+[2026.01.06-16.28.26:390][657]LogModuleManager: Shutting down and abandoning module ActorSequence (388)
+[2026.01.06-16.28.26:390][657]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (386)
+[2026.01.06-16.28.26:390][657]LogModuleManager: Shutting down and abandoning module TcpMessaging (384)
+[2026.01.06-16.28.26:492][657]LogModuleManager: Shutting down and abandoning module UdpMessaging (382)
+[2026.01.06-16.28.26:593][657]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (380)
+[2026.01.06-16.28.26:593][657]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (378)
+[2026.01.06-16.28.26:593][657]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (376)
+[2026.01.06-16.28.26:593][657]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (374)
+[2026.01.06-16.28.26:593][657]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (372)
+[2026.01.06-16.28.26:593][657]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (370)
+[2026.01.06-16.28.26:593][657]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2026.01.06-16.28.26:593][657]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (368)
+[2026.01.06-16.28.26:593][657]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (366)
+[2026.01.06-16.28.26:593][657]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (364)
+[2026.01.06-16.28.26:593][657]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (362)
+[2026.01.06-16.28.26:593][657]LogModuleManager: Shutting down and abandoning module MagicLeapController (360)
+[2026.01.06-16.28.26:593][657]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (358)
+[2026.01.06-16.28.26:593][657]LogModuleManager: Shutting down and abandoning module MagicLeapAR (356)
+[2026.01.06-16.28.26:593][657]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (354)
+[2026.01.06-16.28.26:593][657]LogModuleManager: Shutting down and abandoning module Niagara (352)
+[2026.01.06-16.28.26:593][657]LogModuleManager: Shutting down and abandoning module SignalProcessing (351)
+[2026.01.06-16.28.26:593][657]LogModuleManager: Shutting down and abandoning module NiagaraEditor (349)
+[2026.01.06-16.28.26:594][657]LogModuleManager: Shutting down and abandoning module NiagaraCore (346)
+[2026.01.06-16.28.26:594][657]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (344)
+[2026.01.06-16.28.26:594][657]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (342)
+[2026.01.06-16.28.26:594][657]LogModuleManager: Shutting down and abandoning module FacialAnimation (340)
+[2026.01.06-16.28.26:594][657]LogModuleManager: Shutting down and abandoning module DataValidation (338)
+[2026.01.06-16.28.26:594][657]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (336)
+[2026.01.06-16.28.26:594][657]LogModuleManager: Shutting down and abandoning module LevelEditor (335)
+[2026.01.06-16.28.26:596][657]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (334)
+[2026.01.06-16.28.26:596][657]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (332)
+[2026.01.06-16.28.26:597][657]LogModuleManager: Shutting down and abandoning module MainFrame (330)
+[2026.01.06-16.28.26:597][657]LogModuleManager: Shutting down and abandoning module HotReload (329)
+[2026.01.06-16.28.26:598][657]LogModuleManager: Shutting down and abandoning module ToolMenus (325)
+[2026.01.06-16.28.26:598][657]LogModuleManager: Shutting down and abandoning module ContentBrowser (323)
+[2026.01.06-16.28.26:598][657]LogModuleManager: Shutting down and abandoning module ContentBrowserData (322)
+[2026.01.06-16.28.26:598][657]LogModuleManager: Shutting down and abandoning module TreeMap (319)
+[2026.01.06-16.28.26:599][657]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2026.01.06-16.28.26:599][657]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2026.01.06-16.28.26:599][657]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2026.01.06-16.28.26:599][657]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2026.01.06-16.28.26:599][657]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2026.01.06-16.28.26:602][657]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2026.01.06-16.28.26:602][657]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2026.01.06-16.28.26:602][657]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2026.01.06-16.28.26:602][657]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2026.01.06-16.28.26:602][657]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2026.01.06-16.28.26:602][657]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2026.01.06-16.28.26:602][657]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2026.01.06-16.28.26:603][657]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2026.01.06-16.28.26:603][657]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2026.01.06-16.28.26:603][657]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2026.01.06-16.28.26:603][657]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2026.01.06-16.28.26:603][657]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2026.01.06-16.28.26:603][657]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2026.01.06-16.28.26:603][657]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2026.01.06-16.28.26:603][657]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2026.01.06-16.28.26:604][657]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2026.01.06-16.28.26:605][657]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2026.01.06-16.28.26:605][657]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2026.01.06-16.28.26:605][657]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2026.01.06-16.28.26:606][657]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2026.01.06-16.28.26:606][657]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2026.01.06-16.28.26:609][657]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2026.01.06-16.28.26:609][657]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2026.01.06-16.28.26:609][657]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2026.01.06-16.28.26:609][657]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2026.01.06-16.28.26:609][657]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2026.01.06-16.28.26:610][657]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2026.01.06-16.28.26:610][657]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2026.01.06-16.28.26:610][657]LogModuleManager: Shutting down and abandoning module Core (248)
+[2026.01.06-16.28.26:610][657]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2026.01.06-16.28.26:610][657]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2026.01.06-16.28.26:610][657]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2026.01.06-16.28.26:610][657]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2026.01.06-16.28.26:611][657]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2026.01.06-16.28.26:615][657]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2026.01.06-16.28.26:615][657]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2026.01.06-16.28.26:615][657]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2026.01.06-16.28.26:615][657]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2026.01.06-16.28.26:615][657]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2026.01.06-16.28.26:615][657]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2026.01.06-16.28.26:615][657]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2026.01.06-16.28.26:615][657]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2026.01.06-16.28.26:615][657]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2026.01.06-16.28.26:615][657]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2026.01.06-16.28.26:615][657]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2026.01.06-16.28.26:615][657]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2026.01.06-16.28.26:616][657]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2026.01.06-16.28.26:616][657]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2026.01.06-16.28.26:617][657]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2026.01.06-16.28.26:617][657]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2026.01.06-16.28.26:617][657]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2026.01.06-16.28.26:617][657]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2026.01.06-16.28.26:617][657]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2026.01.06-16.28.26:617][657]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2026.01.06-16.28.26:617][657]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2026.01.06-16.28.26:618][657]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2026.01.06-16.28.26:618][657]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2026.01.06-16.28.26:618][657]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2026.01.06-16.28.26:619][657]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2026.01.06-16.28.26:619][657]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2026.01.06-16.28.26:619][657]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2026.01.06-16.28.26:619][657]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2026.01.06-16.28.26:619][657]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2026.01.06-16.28.26:619][657]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2026.01.06-16.28.26:619][657]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2026.01.06-16.28.26:619][657]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2026.01.06-16.28.26:619][657]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2026.01.06-16.28.26:619][657]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2026.01.06-16.28.26:624][657]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2026.01.06-16.28.26:624][657]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2026.01.06-16.28.26:624][657]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2026.01.06-16.28.26:624][657]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2026.01.06-16.28.26:624][657]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2026.01.06-16.28.26:629][657]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2026.01.06-16.28.26:629][657]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2026.01.06-16.28.26:629][657]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2026.01.06-16.28.26:629][657]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2026.01.06-16.28.26:630][657]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2026.01.06-16.28.26:630][657]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2026.01.06-16.28.26:630][657]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2026.01.06-16.28.26:630][657]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2026.01.06-16.28.26:630][657]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2026.01.06-16.28.26:633][657]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2026.01.06-16.28.26:649][657]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2026.01.06-16.28.26:650][657]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2026.01.06-16.28.26:650][657]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2026.01.06-16.28.26:650][657]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2026.01.06-16.28.26:650][657]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2026.01.06-16.28.26:651][657]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2026.01.06-16.28.26:651][657]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2026.01.06-16.28.26:651][657]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2026.01.06-16.28.26:651][657]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2026.01.06-16.28.26:651][657]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2026.01.06-16.28.26:652][657]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2026.01.06-16.28.26:652][657]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2026.01.06-16.28.26:652][657]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2026.01.06-16.28.26:652][657]LogHMD: Freeing OpenVRDLLHandle.
+[2026.01.06-16.28.26:653][657]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2026.01.06-16.28.26:653][657]LogModuleManager: Shutting down and abandoning module PixWinPlugin (108)
+[2026.01.06-16.28.26:654][657]LogModuleManager: Shutting down and abandoning module OpenXRAR (106)
+[2026.01.06-16.28.26:654][657]LogModuleManager: Shutting down and abandoning module AugmentedReality (105)
+[2026.01.06-16.28.26:654][657]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (102)
+[2026.01.06-16.28.26:654][657]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (100)
+[2026.01.06-16.28.26:654][657]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.01.06-16.28.26:654][657]LogModuleManager: Shutting down and abandoning module OpenXRHMD (99)
+[2026.01.06-16.28.26:656][657]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2026.01.06-16.28.26:656][657]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2026.01.06-16.28.26:656][657]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2026.01.06-16.28.26:656][657]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2026.01.06-16.28.26:657][657]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2026.01.06-16.28.26:661][657]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2026.01.06-16.28.26:661][657]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2026.01.06-16.28.26:685][657]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2026.01.06-16.28.26:685][657]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2026.01.06-16.28.26:685][657]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EE0052B-4818-4161-0CF0-06987883CD6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=b7589798428a4cde201514b74a0a2790%7C18ef0e1bc8484b76aae1685e0a77b7d0%7C55fc9611-b44c-4eb3-bc62-8063c2e9195d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2026.01.06-16.28.26:685][657]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2026.01.06-16.28.26:722][657]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2026.01.06-16.28.26:729][657]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2026.01.06-16.28.26:732][657]LogModuleManager: Shutting down and abandoning module Media (71)
+[2026.01.06-16.28.26:734][657]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2026.01.06-16.28.26:734][657]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2026.01.06-16.28.26:734][657]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2026.01.06-16.28.26:734][657]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2026.01.06-16.28.26:734][657]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2026.01.06-16.28.26:734][657]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2026.01.06-16.28.26:734][657]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2026.01.06-16.28.26:734][657]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2026.01.06-16.28.26:734][657]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2026.01.06-16.28.26:734][657]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2026.01.06-16.28.26:734][657]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2026.01.06-16.28.26:734][657]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (46)
+[2026.01.06-16.28.26:734][657]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (44)
+[2026.01.06-16.28.26:735][657]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2026.01.06-16.28.26:735][657]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (40)
+[2026.01.06-16.28.26:735][657]LogModuleManager: Shutting down and abandoning module PlatformCrypto (38)
+[2026.01.06-16.28.26:735][657]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2026.01.06-16.28.26:735][657]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2026.01.06-16.28.26:735][657]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2026.01.06-16.28.26:735][657]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2026.01.06-16.28.26:736][657]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2026.01.06-16.28.26:736][657]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2026.01.06-16.28.26:736][657]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2026.01.06-16.28.26:736][657]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2026.01.06-16.28.26:737][657]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2026.01.06-16.28.26:737][657]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2026.01.06-16.28.26:737][657]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2026.01.06-16.28.26:737][657]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2026.01.06-16.28.26:737][657]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2026.01.06-16.28.26:737][657]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2026.01.06-16.28.26:737][657]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2026.01.06-16.28.26:737][657]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2026.01.06-16.28.26:737][657]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2026.01.06-16.28.26:737][657]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2026.01.06-16.28.26:737][657]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2026.01.06-16.28.26:925][657]LogD3D11RHI: Shutdown
+[2026.01.06-16.28.26:925][657]LogD3D11RHI: CleanupD3DDevice
+[2026.01.06-16.28.26:931][657]LogExit: Exiting.
+[2026.01.06-16.28.26:940][657]Log file closed, 01/06/26 11:28:26
